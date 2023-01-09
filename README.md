@@ -4,5 +4,7 @@ Hi~ :hand: This is Berson Wong, gonna be the tcest tc in the world.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbs2788&layout=compact&theme=radical)](https://github.com/wbs2788/github-readme-stats)
 
+![](https://osu-sig.vercel.app/card?user=pasonwang&mode=std&animation=true)
+
 tc:讨（tǎo）吃（chī），idiot in Lanzhou dialect.
 
